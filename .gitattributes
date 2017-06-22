@@ -1,3 +1,4 @@
 Notebooks/Soundings_1992.txt filter=lfs diff=lfs merge=lfs -text
 Notebooks/1992_Calculations_Subset.txt filter=lfs diff=lfs merge=lfs -text
 Notebooks/Soundings_1992_Subset.txt filter=lfs diff=lfs merge=lfs -text
+Notebooks/Station_Locations.txt filter=lfs diff=lfs merge=lfs -text
